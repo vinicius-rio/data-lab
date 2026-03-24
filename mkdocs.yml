@@ -25,6 +25,8 @@ theme:
       accent: indigo
 
 markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
@@ -45,7 +47,13 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+  extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
 copyright: Copyright &copy; 2024 Vinicius Naziozeno Santoro do Rio
 
 extra_css:
   - styles/custom.css  # Referência para o seu arquivo custom.css
+  - https://unpkg.com/katex@0/dist/katex.min.css

@@ -398,7 +398,7 @@ Impacto financeiro associado a erros do modelo.
 - Hastie, T.; Tibshirani, R.; Friedman, J. (2009). *The Elements of Statistical Learning*  
 - Bishop, C. (2006). *Pattern Recognition and Machine Learning*  
 
-!! tip "Dica"
+!!! tip "Dica"
 
     Um modelo com alta acurácia não tem valor se não resolve o problema correto.
 
