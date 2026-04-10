@@ -1,12 +1,21 @@
 ## **👨‍💻 Sobre este projeto**
 
-Olá! Muito prazer, sou o Vinicius! Seja bem-vindo ao meu espaço de aprendizado. 🚀
+Esta documentação reúne meus estudos e aplicações práticas em ciência de dados.
 
-Até o final de 2024, atuei em uma squad de negócios, focado em análise de dados. Porém, descobri meu interesse em unir a engenharia de software com dados e estou iniciando minha carreira como engenheiro de dados!
+## Estrutura
 
-**O objetivo deste site é documentar todo o meu processo de aprendizado para me tornar um engenheiro de dados!**
+- CRISP-DM e métricas utilizadas
+- Estatística inferencial aplicada a NPS
+- Testes de hipótese
+- A/B testing
 
-De acordo com o [Microsoft Learn](https://learn.microsoft.com/pt-br/training/career-paths/data-engineer), engenheiros de dados integram, transformam e consolidam dados de sistemas estruturados e não estruturados, criando bases sólidas para soluções de análise.
+## Autor
+
+Vinicius Naziozeno Santoro do Rio
+
+## Data
+
+Abril de 2026.
 
 ## **ℹ️ Informações**
 
