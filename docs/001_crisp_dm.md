@@ -1,8 +1,3 @@
----
-title: 01 - CRISP-DM e Métricas Utilizadas
-description: Framework CRISP-DM e principais métricas analíticas utilizadas em projetos de ciência de dados.
----
-
 # 01. CRISP-DM e Métricas Utilizadas
 
 ## 1. CRISP-DM

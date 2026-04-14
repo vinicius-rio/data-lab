@@ -74,7 +74,5 @@ extra_css:
 nav:
   - Início: index.md
   - 01. CRISP-DM e Métricas Utilizadas: 001_crisp_dm.md
-  - 02. Estatística Inferencial Aplicada a NPS: 002_estatistica_inferencial_nps.ipynb
-  - 03. Framework de Amostragem: 003_framework_amostragem.md
-  - 04. Testes de Hipótese: 004_testes_de_hipotese.ipynb
-  - 05. A/B Testing: 005_ab_testing.ipynb
+  - 02. Análise Exploratória de Dados: 002_eda.ipynb
+  - 03. Amostragem e Intervalo de Confiança: 003_amostragem_ic.ipynb
