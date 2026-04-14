@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://vinicius-rio.github.io/data-lab/</loc>
+         <lastmod>2026-04-14</lastmod>
+    </url>
+    <url>
+         <loc>https://vinicius-rio.github.io/data-lab/001_crisp_dm/</loc>
+         <lastmod>2026-04-14</lastmod>
+    </url>
+    <url>
+         <loc>https://vinicius-rio.github.io/data-lab/002_eda/</loc>
+         <lastmod>2026-04-14</lastmod>
+    </url>
+    <url>
+         <loc>https://vinicius-rio.github.io/data-lab/003_amostragem_ic/</loc>
+         <lastmod>2026-04-14</lastmod>
+    </url>
+    <url>
+         <loc>https://vinicius-rio.github.io/data-lab/004_probabilidade_e_distribuicoes/</loc>
+         <lastmod>2026-04-14</lastmod>
+    </url>
+    <url>
+         <loc>https://vinicius-rio.github.io/data-lab/005_regressao_linear_simples/</loc>
+         <lastmod>2026-04-14</lastmod>
+    </url>
+</urlset>
