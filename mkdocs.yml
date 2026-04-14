@@ -1,6 +1,6 @@
-site_name: ViniRio Data Lab
+site_name: Data Lab
 site_description: Documentação pública dos meus estudos e aplicações práticas em ciência de dados
-site_url: https://vinicius-rio.github.io/santoro-data-lab
+site_url: https://vinicius-rio.github.io/data-lab
 
 theme:
   name: material
