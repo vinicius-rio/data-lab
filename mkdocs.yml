@@ -76,3 +76,4 @@ nav:
   - 01. CRISP-DM e Métricas Utilizadas: 001_crisp_dm.md
   - 02. Análise Exploratória de Dados: 002_eda.ipynb
   - 03. Amostragem e Intervalo de Confiança: 003_amostragem_ic.ipynb
+  - 04. Probabilidade e Distribuições: 004_probabilidade_e_distribuicoes.ipynb
