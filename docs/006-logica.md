@@ -1,3 +1,5 @@
+# 06. Lógica
+
 | data_marcacao | last_tool            | last_experiment_id   | last_num_vari | last_termino_jornada | termino_conversa | demanda                       | justificativa                                                                                                                                         |
 | ------------- | -------------------- | -------------------- | ------------- | -------------------- | ---------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 30/06/2026    | agente-investigativo | agente-investigativo | A             | NULL                 | termino_avi      | demanda_avi                   | Última interação foi na variação A; por isso o término e a demanda foram herdados da AVI_FULL.                                                        |
